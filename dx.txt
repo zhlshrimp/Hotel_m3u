@@ -8,7 +8,6 @@ CCTV1,http://183.10.99.205:808/hls/1/index.m3u8
 CCTV1,http://219.144.157.62:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://220.168.79.68:8082/hls/1/index.m3u8
 CCTV1,http://116.232.150.99:50001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://180.118.187.218:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://183.62.8.58:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://171.43.65.194:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://1.197.253.195:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -27,7 +26,6 @@ CCTV2,http://183.10.99.205:808/hls/2/index.m3u8
 CCTV2,http://219.144.157.62:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://220.168.79.68:8082/hls/2/index.m3u8
 CCTV2,http://116.232.150.99:50001/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://180.118.187.218:60001/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://183.62.8.58:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://171.43.65.194:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://1.197.253.195:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -46,7 +44,6 @@ CCTV3,http://183.10.99.205:808/hls/3/index.m3u8
 CCTV3,http://219.144.157.62:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://220.168.79.68:8082/hls/3/index.m3u8
 CCTV3,http://116.232.150.99:50001/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://180.118.187.218:60001/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://183.62.8.58:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://171.43.65.194:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://1.197.253.195:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -105,7 +102,6 @@ CCTV6,http://183.10.99.205:808/hls/6/index.m3u8
 CCTV6,http://219.144.157.62:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://220.168.79.68:8082/hls/7/index.m3u8
 CCTV6,http://116.232.150.99:50001/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://180.118.187.218:60001/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://183.62.8.58:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://171.43.65.194:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://1.197.253.195:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -124,7 +120,6 @@ CCTV7,http://183.10.99.205:808/hls/7/index.m3u8
 CCTV7,http://219.144.157.62:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://220.168.79.68:8082/hls/8/index.m3u8
 CCTV7,http://116.232.150.99:50001/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://180.118.187.218:60001/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://183.62.8.58:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://171.43.65.194:85/tsfile/live/faacts/0007_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://1.197.253.195:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -143,7 +138,6 @@ CCTV8,http://183.10.99.205:808/hls/8/index.m3u8
 CCTV8,http://219.144.157.62:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://220.168.79.68:8082/hls/9/index.m3u8
 CCTV8,http://116.232.150.99:50001/tsfile/live/0001_8.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://180.118.187.218:60001/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://183.62.8.58:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://171.43.65.194:85/tsfile/live/faacts/0008_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://1.197.253.195:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -161,7 +155,6 @@ CCTV9,http://183.10.99.205:808/hls/9/index.m3u8
 CCTV9,http://219.144.157.62:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://220.168.79.68:8082/hls/10/index.m3u8
 CCTV9,http://116.232.150.99:50001/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://180.118.187.218:60001/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://183.62.8.58:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://171.43.65.194:85/tsfile/live/faacts/0009_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://1.197.253.195:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -180,7 +173,6 @@ CCTV10,http://183.10.99.205:808/hls/10/index.m3u8
 CCTV10,http://219.144.157.62:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://220.168.79.68:8082/hls/11/index.m3u8
 CCTV10,http://116.232.150.99:50001/tsfile/live/0001_10.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://180.118.187.218:60001/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://183.62.8.58:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://171.43.65.194:85/tsfile/live/faacts/0010_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://1.197.253.195:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -196,7 +188,6 @@ CCTV11,http://183.10.99.205:808/hls/11/index.m3u8
 CCTV11,http://219.144.157.62:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://220.168.79.68:8082/hls/12/index.m3u8
 CCTV11,http://116.232.150.99:50001/tsfile/live/0001_11.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://180.118.187.218:60001/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://183.62.8.58:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://171.43.65.194:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://1.197.253.195:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -212,7 +203,6 @@ CCTV12,http://183.10.99.205:808/hls/12/index.m3u8
 CCTV12,http://219.144.157.62:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://220.168.79.68:8082/hls/13/index.m3u8
 CCTV12,http://116.232.150.99:50001/tsfile/live/0001_12.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://180.118.187.218:60001/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://183.62.8.58:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://171.43.65.194:85/tsfile/live/faacts/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://1.197.253.195:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -229,7 +219,6 @@ CCTV13,http://183.10.99.205:808/hls/13/index.m3u8
 CCTV13,http://219.144.157.62:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://220.168.79.68:8082/hls/14/index.m3u8
 CCTV13,http://116.232.150.99:50001/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://180.118.187.218:60001/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://183.62.8.58:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://171.43.65.194:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://1.197.253.195:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -245,7 +234,6 @@ CCTV14,http://183.10.99.205:808/hls/14/index.m3u8
 CCTV14,http://219.144.157.62:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://220.168.79.68:8082/hls/15/index.m3u8
 CCTV14,http://116.232.150.99:50001/tsfile/live/0001_14.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://180.118.187.218:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://183.62.8.58:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://171.43.65.194:85/tsfile/live/faacts/0014_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://1.197.253.195:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -260,7 +248,6 @@ CCTV15,http://183.10.99.205:808/hls/15/index.m3u8
 CCTV15,http://219.144.157.62:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://220.168.79.68:8082/hls/16/index.m3u8
 CCTV15,http://116.232.150.99:50001/tsfile/live/0001_15.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://180.118.187.218:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://183.62.8.58:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://171.43.65.194:85/tsfile/live/faacts/0015_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://1.197.253.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
