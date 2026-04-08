@@ -19,7 +19,6 @@ CCTV1,http://60.8.75.178:9002/hls/1/index.m3u8
 CCTV1,http://124.165.251.82:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://58.240.101.157:9003/hls/1/index.m3u8
 CCTV1,http://171.116.254.184:9003/hls/1/index.m3u8
-CCTV1,http://221.205.231.42:9003/hls/1/index.m3u8
 CCTV2,http://153.0.171.163:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://113.57.20.185:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
