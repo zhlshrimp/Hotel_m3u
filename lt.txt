@@ -18,7 +18,6 @@ CCTV1,http://139.227.221.33:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&aut
 CCTV1,http://221.221.137.78:999/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://183.184.48.149:9003/hls/1/index.m3u8
 CCTV1,http://183.184.48.235:9003/hls/1/index.m3u8
-CCTV1,http://175.162.186.192:777/hls/1/index.m3u8
 CCTV1,http://61.161.61.119:9004/hls/1/index.m3u8
 CCTV1,http://119.4.140.94:85/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://221.205.207.128:9003/hls/1/index.m3u8
@@ -47,7 +46,6 @@ CCTV2,http://139.227.221.33:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&aut
 CCTV2,http://221.221.137.78:999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://183.184.48.149:9003/hls/2/index.m3u8
 CCTV2,http://183.184.48.235:9003/hls/2/index.m3u8
-CCTV2,http://175.162.186.192:777/hls/2/index.m3u8
 CCTV2,http://61.161.61.119:9004/hls/2/index.m3u8
 CCTV2,http://119.4.140.94:85/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://221.205.207.128:9003/hls/2/index.m3u8
@@ -74,7 +72,6 @@ CCTV3,http://123.154.44.162:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&aut
 CCTV3,http://139.227.221.33:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://183.184.48.149:9003/hls/3/index.m3u8
 CCTV3,http://183.184.48.235:9003/hls/3/index.m3u8
-CCTV3,http://175.162.186.192:777/hls/3/index.m3u8
 CCTV3,http://61.161.61.119:9004/hls/3/index.m3u8
 CCTV3,http://119.4.140.94:85/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://221.205.207.128:9003/hls/3/index.m3u8
@@ -101,7 +98,6 @@ CCTV4,http://139.227.221.33:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&aut
 CCTV4,http://221.221.137.78:999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://183.184.48.149:9003/hls/4/index.m3u8
 CCTV4,http://183.184.48.235:9003/hls/4/index.m3u8
-CCTV4,http://175.162.186.192:777/hls/4/index.m3u8
 CCTV4,http://61.161.61.119:9004/hls/4/index.m3u8
 CCTV4,http://119.4.140.94:85/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://221.205.207.128:9003/hls/4/index.m3u8
@@ -144,8 +140,6 @@ CCTV5,http://183.184.48.149:9003/hls/5/index.m3u8
 CCTV5+,http://183.184.48.149:9003/hls/6/index.m3u8
 CCTV5,http://183.184.48.235:9003/hls/5/index.m3u8
 CCTV5+,http://183.184.48.235:9003/hls/6/index.m3u8
-CCTV5,http://175.162.186.192:777/hls/5/index.m3u8
-CCTV5+,http://175.162.186.192:777/hls/18/index.m3u8
 CCTV5,http://61.161.61.119:9004/hls/6/index.m3u8
 CCTV5+,http://61.161.61.119:9004/hls/7/index.m3u8
 CCTV5,http://119.4.140.94:85/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -183,7 +177,6 @@ CCTV6,http://139.227.221.33:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&aut
 CCTV6,http://221.221.137.78:999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://183.184.48.149:9003/hls/7/index.m3u8
 CCTV6,http://183.184.48.235:9003/hls/7/index.m3u8
-CCTV6,http://175.162.186.192:777/hls/6/index.m3u8
 CCTV6,http://61.161.61.119:9004/hls/8/index.m3u8
 CCTV6,http://119.4.140.94:85/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://221.205.207.128:9003/hls/7/index.m3u8
@@ -212,7 +205,6 @@ CCTV7,http://139.227.221.33:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&aut
 CCTV7,http://221.221.137.78:999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://183.184.48.149:9003/hls/8/index.m3u8
 CCTV7,http://183.184.48.235:9003/hls/8/index.m3u8
-CCTV7,http://175.162.186.192:777/hls/7/index.m3u8
 CCTV7,http://61.161.61.119:9004/hls/9/index.m3u8
 CCTV7,http://119.4.140.94:85/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://221.205.207.128:9003/hls/8/index.m3u8
@@ -237,7 +229,6 @@ CCTV8,http://123.154.44.162:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&aut
 CCTV8,http://139.227.221.33:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV8,http://183.184.48.149:9003/hls/9/index.m3u8
 CCTV8,http://183.184.48.235:9003/hls/9/index.m3u8
-CCTV8,http://175.162.186.192:777/hls/8/index.m3u8
 CCTV8,http://61.161.61.119:9004/hls/10/index.m3u8
 CCTV8,http://119.4.140.94:85/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://221.205.207.128:9003/hls/9/index.m3u8
@@ -264,7 +255,6 @@ CCTV9,http://139.227.221.33:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&aut
 CCTV9,http://221.221.137.78:999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://183.184.48.149:9003/hls/10/index.m3u8
 CCTV9,http://183.184.48.235:9003/hls/10/index.m3u8
-CCTV9,http://175.162.186.192:777/hls/9/index.m3u8
 CCTV9,http://61.161.61.119:9004/hls/11/index.m3u8
 CCTV9,http://119.4.140.94:85/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://221.205.207.128:9003/hls/10/index.m3u8
@@ -291,7 +281,6 @@ CCTV10,http://139.227.221.33:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&au
 CCTV10,http://221.221.137.78:999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://183.184.48.149:9003/hls/11/index.m3u8
 CCTV10,http://183.184.48.235:9003/hls/11/index.m3u8
-CCTV10,http://175.162.186.192:777/hls/10/index.m3u8
 CCTV10,http://61.161.61.119:9004/hls/12/index.m3u8
 CCTV10,http://119.4.140.94:85/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://221.205.207.128:9003/hls/11/index.m3u8
@@ -316,7 +305,6 @@ CCTV11,http://123.154.44.162:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&au
 CCTV11,http://139.227.221.33:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11,http://183.184.48.149:9003/hls/12/index.m3u8
 CCTV11,http://183.184.48.235:9003/hls/12/index.m3u8
-CCTV11,http://175.162.186.192:777/hls/11/index.m3u8
 CCTV11,http://61.161.61.119:9004/hls/13/index.m3u8
 CCTV11,http://119.4.140.94:85/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://221.205.207.128:9003/hls/12/index.m3u8
@@ -343,7 +331,6 @@ CCTV12,http://139.227.221.33:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&au
 CCTV12,http://221.221.137.78:999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://183.184.48.149:9003/hls/13/index.m3u8
 CCTV12,http://183.184.48.235:9003/hls/13/index.m3u8
-CCTV12,http://175.162.186.192:777/hls/12/index.m3u8
 CCTV12,http://61.161.61.119:9004/hls/14/index.m3u8
 CCTV12,http://119.4.140.94:85/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://221.205.207.128:9003/hls/13/index.m3u8
@@ -372,7 +359,6 @@ CCTV13,http://139.227.221.33:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&au
 CCTV13,http://221.221.137.78:999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://183.184.48.149:9003/hls/14/index.m3u8
 CCTV13,http://183.184.48.235:9003/hls/14/index.m3u8
-CCTV13,http://175.162.186.192:777/hls/13/index.m3u8
 CCTV13,http://61.161.61.119:9004/hls/15/index.m3u8
 CCTV13,http://119.4.140.94:85/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://221.205.207.128:9003/hls/14/index.m3u8
@@ -398,7 +384,6 @@ CCTV14,http://123.154.44.162:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&au
 CCTV14,http://139.227.221.33:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14,http://183.184.48.149:9003/hls/15/index.m3u8
 CCTV14,http://183.184.48.235:9003/hls/15/index.m3u8
-CCTV14,http://175.162.186.192:777/hls/14/index.m3u8
 CCTV14,http://119.4.140.94:85/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://221.205.207.128:9003/hls/15/index.m3u8
 CCTV14,http://171.118.79.152:9003/hls/15/index.m3u8
@@ -423,7 +408,6 @@ CCTV15,http://123.154.44.162:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&au
 CCTV15,http://139.227.221.33:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://183.184.48.149:9003/hls/16/index.m3u8
 CCTV15,http://183.184.48.235:9003/hls/16/index.m3u8
-CCTV15,http://175.162.186.192:777/hls/15/index.m3u8
 CCTV15,http://119.4.140.94:85/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://221.205.207.128:9003/hls/16/index.m3u8
 CCTV15,http://171.118.79.152:9003/hls/16/index.m3u8
@@ -437,7 +421,6 @@ CCTV16,http://110.241.191.46:808/hls/16/index.m3u8
 CCTV16,http://110.241.190.28:808/hls/16/index.m3u8
 CCTV16,http://113.227.110.141:777/hls/426837468/index.m3u8
 CCTV16,http://221.221.137.78:999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://175.162.186.192:777/hls/16/index.m3u8
 CCTV16,http://171.38.149.117:8082/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://171.38.149.174:8082/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://171.38.146.21:8082/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -446,7 +429,6 @@ CCTV17,http://119.62.24.75:50085/tsfile/live/0017_4.m3u8?key=txiptv&playlive=0&a
 CCTV17,http://175.22.68.51:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://113.227.110.141:777/hls/443156247/index.m3u8
 CCTV17,http://119.51.54.97:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV17,http://175.162.186.192:777/hls/17/index.m3u8
 CCTV17,http://171.38.149.117:8082/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://171.38.149.174:8082/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://171.38.146.21:8082/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -494,7 +476,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 东方卫视,http://221.221.137.78:999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://183.184.48.149:9003/hls/23/index.m3u8
 东方卫视,http://183.184.48.235:9003/hls/23/index.m3u8
-东方卫视,http://175.162.186.192:777/hls/21/index.m3u8
 东方卫视,http://221.205.207.128:9003/hls/23/index.m3u8
 东方卫视,http://171.118.79.152:9003/hls/23/index.m3u8
 东方卫视,http://114.245.198.169:85/tsfile/live/41/1041_1.m3u8?key=txiptv
@@ -545,7 +526,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 北京卫视,http://221.221.137.78:999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://183.184.48.149:9003/hls/18/index.m3u8
 北京卫视,http://183.184.48.235:9003/hls/18/index.m3u8
-北京卫视,http://175.162.186.192:777/hls/20/index.m3u8
 北京卫视,http://61.161.61.119:9004/hls/30/index.m3u8
 北京卫视,http://119.4.140.94:85/tsfile/live/faacts/0122_2.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://221.205.207.128:9003/hls/18/index.m3u8
@@ -555,7 +535,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 北京卫视,http://171.38.149.174:8082/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://171.38.146.21:8082/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 卡通卫视,http://113.227.110.141:777/hls/494596185/index.m3u8
-卡通卫视,http://175.162.186.192:777/hls/30/index.m3u8
 吉林卫视,http://153.0.171.163:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://119.62.24.75:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://60.8.75.178:9002/hls/45/index.m3u8
@@ -568,7 +547,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 吉林卫视,http://119.51.54.97:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://183.184.48.149:9003/hls/34/index.m3u8
 吉林卫视,http://183.184.48.235:9003/hls/34/index.m3u8
-吉林卫视,http://175.162.186.192:777/hls/25/index.m3u8
 吉林卫视,http://61.161.61.119:9004/hls/31/index.m3u8
 吉林卫视,http://119.4.140.94:85/tsfile/live/faacts/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://221.205.207.128:9003/hls/34/index.m3u8
@@ -617,7 +595,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 天津卫视,http://139.227.221.33:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://183.184.48.149:9003/hls/19/index.m3u8
 天津卫视,http://183.184.48.235:9003/hls/19/index.m3u8
-天津卫视,http://175.162.186.192:777/hls/27/index.m3u8
 天津卫视,http://61.161.61.119:9004/hls/55/index.m3u8
 天津卫视,http://119.4.140.94:85/tsfile/live/faacts/0135_2.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://221.205.207.128:9003/hls/19/index.m3u8
@@ -680,7 +657,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 山东卫视,http://221.221.137.78:999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://183.184.48.149:9003/hls/37/index.m3u8
 山东卫视,http://183.184.48.235:9003/hls/37/index.m3u8
-山东卫视,http://175.162.186.192:777/hls/28/index.m3u8
 山东卫视,http://61.161.61.119:9004/hls/38/index.m3u8
 山东卫视,http://119.4.140.94:85/tsfile/live/faacts/0131_2.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://221.205.207.128:9003/hls/37/index.m3u8
@@ -726,7 +702,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 广东卫视,http://139.227.221.33:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://183.184.48.149:9003/hls/26/index.m3u8
 广东卫视,http://183.184.48.235:9003/hls/26/index.m3u8
-广东卫视,http://175.162.186.192:777/hls/29/index.m3u8
 广东卫视,http://61.161.61.119:9004/hls/57/index.m3u8
 广东卫视,http://119.4.140.94:85/tsfile/live/faacts/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://221.205.207.128:9003/hls/26/index.m3u8
@@ -788,7 +763,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 江苏卫视,http://221.221.137.78:999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://183.184.48.149:9003/hls/35/index.m3u8
 江苏卫视,http://183.184.48.235:9003/hls/35/index.m3u8
-江苏卫视,http://175.162.186.192:777/hls/24/index.m3u8
 江苏卫视,http://61.161.61.119:9004/hls/44/index.m3u8
 江苏卫视,http://119.4.140.94:85/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://221.205.207.128:9003/hls/35/index.m3u8
@@ -886,7 +860,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 浙江卫视,http://139.227.221.33:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://183.184.48.149:9003/hls/28/index.m3u8
 浙江卫视,http://183.184.48.235:9003/hls/28/index.m3u8
-浙江卫视,http://175.162.186.192:777/hls/22/index.m3u8
 浙江卫视,http://61.161.61.119:9004/hls/45/index.m3u8
 浙江卫视,http://119.4.140.94:85/tsfile/live/faacts/0124_2.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://221.205.207.128:9003/hls/28/index.m3u8
@@ -898,7 +871,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 浙江卫视,http://171.38.146.21:8082/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://113.57.20.185:1111/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://113.227.110.141:777/hls/486344274/index.m3u8
-海南卫视,http://175.162.186.192:777/hls/26/index.m3u8
 深圳卫视,http://153.0.171.163:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://113.57.20.185:1111/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://60.8.75.178:9002/hls/39/index.m3u8
@@ -965,7 +937,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 湖南卫视,http://139.227.221.33:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://183.184.48.149:9003/hls/33/index.m3u8
 湖南卫视,http://183.184.48.235:9003/hls/33/index.m3u8
-湖南卫视,http://175.162.186.192:777/hls/23/index.m3u8
 湖南卫视,http://61.161.61.119:9004/hls/35/index.m3u8
 湖南卫视,http://119.4.140.94:85/tsfile/live/faacts/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://221.205.207.128:9003/hls/33/index.m3u8
@@ -1028,7 +999,6 @@ BTV北京卫视,http://114.245.198.169:85/tsfile/live/16/1016_1.m3u8?key=txiptv
 辽宁卫视,http://119.190.201.139:85/tsfile/live/47/2022_1.m3u8?key=txiptv
 辽宁卫视,http://139.227.221.33:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://221.221.137.78:999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://175.162.186.192:777/hls/19/index.m3u8
 辽宁卫视,http://61.161.61.119:9004/hls/32/index.m3u8
 辽宁卫视,http://119.4.140.94:85/tsfile/live/faacts/0121_2.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://114.245.198.169:85/tsfile/live/31/1031_1.m3u8?key=txiptv
