@@ -339,6 +339,7 @@ CCTV16,http://183.185.65.33:9003/hls/17/index.m3u8
 CCTV17,http://119.62.24.75:50085/tsfile/live/0017_4.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://42.48.45.151:808/hls/78/index.m3u8
 CCTV17,http://119.49.184.201:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV17,http://113.9.148.152:9003/hls/887793/index.m3u8
 CCTV17,http://119.51.62.155:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://60.26.13.85:85/tsfile/live/97/1023.m3u8?key=txiptv
 CCTV17,http://110.248.147.56:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
