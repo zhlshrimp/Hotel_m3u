@@ -212,7 +212,6 @@ CCTV中学生,http://10.8.8.250:5000/?id=10497
 东南卫视,http://182.207.218.143:999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://183.62.8.58:50085/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://180.165.12.42:50001/tsfile/live/0001_21.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://183.131.110.207:85/tsfile/live/24/2011_1.m3u8?key=txiptv
 东方卫视,http://118.193.115.2:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://211.149.143.188:88/hls/45/index.m3u8
 东方卫视,http://180.173.74.68:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -240,7 +239,6 @@ CCTV中学生,http://10.8.8.250:5000/?id=10497
 内蒙古卫视,http://182.207.218.143:999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://183.62.8.58:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://180.165.12.42:50001/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://183.131.110.207:85/tsfile/live/25/2012_1.m3u8?key=txiptv
 北京卫视,http://118.193.115.2:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://211.149.143.188:88/hls/47/index.m3u8
 北京卫视,http://180.173.74.68:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -297,7 +295,6 @@ CCTV中学生,http://10.8.8.250:5000/?id=10497
 安徽卫视,http://182.207.218.143:999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://183.62.8.58:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://180.165.12.42:50001/tsfile/live/0001_27.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://183.131.110.207:85/tsfile/live/2/2002_1.m3u8?key=txiptv
 山东卫视,http://118.193.115.2:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://211.149.143.188:88/hls/57/index.m3u8
 山东卫视,http://180.173.74.68:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -342,7 +339,6 @@ CCTV中学生,http://10.8.8.250:5000/?id=10497
 星空卫视,http://10.8.8.250:5000/?id=10291
 江苏卫视,http://183.62.8.58:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://180.165.12.42:50001/tsfile/live/0001_22.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://183.131.110.207:85/tsfile/live/23/2010_1.m3u8?key=txiptv
 江苏卫视,http://118.193.115.2:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://211.149.143.188:88/hls/46/index.m3u8
 江苏卫视,http://180.173.74.68:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -382,7 +378,6 @@ CCTV中学生,http://10.8.8.250:5000/?id=10497
 河南卫视,http://182.207.218.143:999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://183.62.8.58:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://180.165.12.42:50001/tsfile/live/0001_23.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://183.131.110.207:85/tsfile/live/22/2009_1.m3u8?key=txiptv
 浙江卫视,http://118.193.115.2:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://211.149.143.188:88/hls/43/index.m3u8
 浙江卫视,http://180.173.74.68:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -452,7 +447,6 @@ CCTV中学生,http://10.8.8.250:5000/?id=10497
 贵州卫视5,http://222.86.14.140:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://183.62.8.58:50085/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://180.165.12.42:50001/tsfile/live/0001_34.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://183.131.110.207:85/tsfile/live/27/2014_1.m3u8?key=txiptv
 辽宁卫视,http://118.193.115.2:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://211.149.143.188:88/hls/58/index.m3u8
 辽宁卫视,http://180.173.74.68:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -512,10 +506,6 @@ CCTV中学生,http://10.8.8.250:5000/?id=10497
 金鹰卡通,http://180.165.12.42:50001/tsfile/live/0001_42.m3u8?key=txiptv&playlive=1&authid=0
 第一财经,http://180.165.12.42:50001/tsfile/live/0001_43.m3u8?key=txiptv&playlive=1&authid=0
 乐游,http://180.165.12.42:50001/tsfile/live/0001_44.m3u8?key=txiptv&playlive=1&authid=0
-中央1台,http://183.131.110.207:85/tsfile/live/1/2001_1.m3u8?key=txiptv
-中央4中文国际,http://183.131.110.207:85/tsfile/live/5/2004_1.m3u8?key=txiptv
-中央6电影,http://183.131.110.207:85/tsfile/live/8/2006_1.m3u8?key=txiptv
-中央13新闻,http://183.131.110.207:85/tsfile/live/29/2016_1.m3u8?key=txiptv
 凤凰中文高清,http://10.8.8.250:5000/?id=10289
 凤凰资讯高清,http://10.8.8.250:5000/?id=10290
 CHC家庭影院,http://10.8.8.250:5000/?id=10376
